@@ -1,0 +1,37 @@
+Student Placement Prediction using Machine Learning
+
+About
+
+This is my first Machine Learning project, developed using Python and Google Colab. It predicts whether a student will be placed using a Decision Tree Classifier.
+
+Technologies
+
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
+
+Dataset
+
+The student dataset is created directly inside the Python notebook using a dictionary. No separate dataset file is required.
+
+Algorithm
+
+Decision Tree Classifier
+
+Workflow
+
+1. Create the dataset.
+2. Prepare the features and target.
+3. Split the data into training and testing sets.
+4. Train the machine learning model.
+5. Predict placement status.
+6. Evaluate model accuracy.
+
+How to Run
+
+Open the notebook in Google Colab and run the cells in order.
+
+Project Type
+
+Beginner Machine Learning Project.
